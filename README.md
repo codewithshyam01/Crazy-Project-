@@ -12,11 +12,11 @@ Contributing
 
 License
 
-
+<hr> 
 About
 
 Crazy-Project- is a web-based application that showcases various web development techniques and practices. The project is built using HTML, CSS, and JavaScript, and serves as a demonstration of frontend development skills.
-
+<hr>
 Usage
 
 You are welcome to explore and use this project for your personal learning and development. If you decide to use or modify any part of this project, please adhere to the following guidelines:
@@ -31,11 +31,11 @@ DO NOT try to profit from free content: This project is shared freely for educat
 
 
 If any unauthorized use is discovered, appropriate action will be taken to prevent it.
-
+<hr>
 Contributing
 
 While this repository is primarily a personal project, contributions are welcome. If you have suggestions, improvements, or new features that align with the spirit of this project, feel free to open an issue or submit a pull request.
-
+<hr>
 License
 
 This repository is licensed under the MIT License. For more details, please refer to the LICENSE file.
